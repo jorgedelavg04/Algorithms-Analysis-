@@ -5,12 +5,7 @@ import random
 import sys
 sys.setrecursionlimit(1500)
 
-"""Examen/Proyecto 1 de Algoritmos"""
-
-__Nombre__      = "Jorge Constanzo De la Vega Carrasco"
-__Matricula__   = "A01650285"
-
-__Profesor__    = "Juan Velez Ballesteros"
+__Nombre__      = "Jorge C De la Vega C"
 
 ### Algoritmos ###
 	
